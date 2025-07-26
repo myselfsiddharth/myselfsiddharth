@@ -1,22 +1,8 @@
 <!-- 
-  Sleek GitHub Profile README for computer science majors
+  Sleek GitHub Profile README
+  Inspired by Marvel, Focused on Engineering Excellence
   by Siddharth
 -->
-
-<style>
-  body {
-    font-size: 18px !important;
-  }
-  h1, h2, h3, h4, h5, h6 {
-    font-size: 1.5em !important;
-  }
-  p, li, em {
-    font-size: 1.2em !important;
-  }
-  .badge {
-    font-size: 1.1em !important;
-  }
-</style>
 
 <!-- HEADER BANNER -->
 <p align="center">
@@ -26,24 +12,24 @@
 <h1 align="center">Hi there, I'm Siddharth 👋</h1>
 <p align="center">
   <em>
-    B.S. and M.S. in Computer Science @ Arizona State University <br/>
+    <h3>B.S. and M.S. in Computer Science @ Arizona State University</h3>
   </em>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+# 🙋‍♂️ About Me
 
-- 🔭 I’m currently a **Student at Arizona State University**
-- 🌱 I’m currently learning **Cloud Technologies (AWS)** and **Data Structures & Algorithms**
-- 👯 I’m looking to **collaborate on Open Source Projects**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://myselfsiddharth.github.io) <!-- Replace # with your actual portfolio URL -->
+- 🔭 I'm currently a **Student at Arizona State University**
+- 🌱 I'm currently learning **Cloud Technologies (AWS)** and **Data Structures & Algorithms**
+- 👯 I'm looking to **collaborate on Open Source Projects**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://myselfsiddharth.github.io)
 - 📫 How to reach me: [siddharthmehta0906@gmail.com](mailto:siddharthmehta0906@gmail.com)
 - ⚡ Fun fact: I play football and code whenever I'm free
 
 ---
 
-## 🚀 Languages and Tools:
+# 🚀 Languages and Tools:
 
 <!-- Add or remove icons as needed -->
 <p align="left">
@@ -70,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=myselfsiddharth&show_icons=true&theme=default" width="400"/>
@@ -79,7 +65,7 @@
 
 ---
 
-## 🌐 My Socials
+# 🌐 My Socials
 
 <p align="center">
   <a href="mailto:smehta74@asu.edu">
