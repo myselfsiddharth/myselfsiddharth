@@ -6,7 +6,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/3oz8xEQ3kl9FPLvNRq/giphy.gif](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fn8agw6z2smyb1.gif%3Fwidth%3D1920%26format%3Dmp4%26s%3D014a8734c8d65fe3b5ef04658714bef6fc97778c](https://camo.githubusercontent.com/2258ba0f05163f3778f6ec7608f1c0f9247c337ff15ed2e0adaee102e1c44142/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966)" width="100%">
+  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fn8agw6z2smyb1.gif%3Fwidth%3D1920%26format%3Dmp4%26s%3D014a8734c8d65fe3b5ef04658714bef6fc97778c" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Siddharth 👋</h1>
