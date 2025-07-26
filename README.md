@@ -20,8 +20,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a **Student at Academy of Technology**
-- 🌱 I’m currently learning **Machine Learning** and **Data Structures & Algorithms**
+- 🔭 I’m currently a **Student at Arizona State University**
+- 🌱 I’m currently learning **Cloud Technologies (AWS)** and **Data Structures & Algorithms**
 - 👯 I’m looking to **collaborate on Open Source Projects**
 - 👨‍💻 All of my projects are available at [My Portfolio](#) <!-- Replace # with your actual portfolio URL -->
 - 📫 How to reach me: **tridibdalui04@gmail.com**
