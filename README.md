@@ -1,8 +1,22 @@
 <!-- 
-  Sleek GitHub Profile README
-  Inspired by Marvel, Focused on Engineering Excellence
+  Sleek GitHub Profile README for computer science majors
   by Siddharth
 -->
+
+<style>
+  body {
+    font-size: 18px !important;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 1.5em !important;
+  }
+  p, li, em {
+    font-size: 1.2em !important;
+  }
+  .badge {
+    font-size: 1.1em !important;
+  }
+</style>
 
 <!-- HEADER BANNER -->
 <p align="center">
@@ -23,8 +37,8 @@
 - 🔭 I’m currently a **Student at Arizona State University**
 - 🌱 I’m currently learning **Cloud Technologies (AWS)** and **Data Structures & Algorithms**
 - 👯 I’m looking to **collaborate on Open Source Projects**
-- 👨‍💻 All of my projects are available at [My Portfolio](#) <!-- Replace # with your actual portfolio URL -->
-- 📫 How to reach me: **tridibdalui04@gmail.com**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://myselfsiddharth.github.io) <!-- Replace # with your actual portfolio URL -->
+- 📫 How to reach me: [siddharthmehta0906@gmail.com](mailto:siddharthmehta0906@gmail.com)
 - ⚡ Fun fact: I play football and code whenever I'm free
 
 ---
@@ -41,12 +55,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-
-## 🛠 Tech Stack
-
-<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -71,14 +79,25 @@
 
 ---
 
-## 🤝 Let’s Connect
-
-- 📧 **Email**: [smehta74@asu.edu](mailto:smehta74@asu.edu)  
-- 💼 **LinkedIn**: [linkedin.com/in/siddharthasu](https://linkedin.com/in/siddharthasu)  
-- 🌐 **Portfolio**: [myselfsiddharth.github.io](https://myselfsiddharth.github.io)
+## 🌐 My Socials
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Hq3rK6DKfG3He7yweA/giphy.gif" alt="Marvel Footer" width="50%">
+  <a href="mailto:smehta74@asu.edu">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="60" height="60"/>
+  </a>
+  <a href="https://linkedin.com/in/siddharthasu">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/>
+  </a>
+  <a href="https://github.com/myselfsiddharth">
+    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="60" height="60"/>
+  </a>
+  <a href="https://myselfsiddharth.github.io">
+    <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Portfolio" width="60" height="60"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coding Gif" width="50%">
 </p>
 
 ---
