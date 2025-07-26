@@ -18,42 +18,31 @@
 
 ---
 
-## ⚡ About Me
+## 🙋‍♂️ About Me
 
-- 🎓 **Education**: Computer Science (4+1) at ASU — GPA: 3.75+
-- 🧠 **Strengths**: Full-Stack Web, Cloud-Native Architecture, Machine Learning Apps
-- 🚀 **Philosophy**: Channeling the spirit of innovation and teamwork like Marvel heroes do
-
----
-
-## 💼 Experience
-
-### 💡 SDE Capstone @ AIQuotient (Jan 2025 – Present)
-- Engineered a **cross-platform app** (React Native) for food recognition using ML
-- Created a **serverless architecture** with AWS Lambda, Rekognition, and Cognito
-- Managed structured data with **DynamoDB** and assets in **AWS S3**
-
-### 🧾 Software Dev Intern @ SAHY Technopreneurs (May 2024 – Aug 2024)
-- Developed **Stripe-integrated** payment gateway (Django backend) for $1M+ monthly sales
-- Migrated over **100K+ records** from MongoDB to PostgreSQL with indexing optimizations
-- Delivered 2+ weeks early in an Agile sprint cycle with CI/CD and peer-reviewed code
+- 🔭 I’m currently a **Student at Academy of Technology**
+- 🌱 I’m currently learning **Machine Learning** and **Data Structures & Algorithms**
+- 👯 I’m looking to **collaborate on Open Source Projects**
+- 👨‍💻 All of my projects are available at [My Portfolio](#) <!-- Replace # with your actual portfolio URL -->
+- 📫 How to reach me: **tridibdalui04@gmail.com**
+- ⚡ Fun fact: I play football and code whenever I'm free
 
 ---
 
-## 🔬 Featured Projects
+## 🚀 Languages and Tools:
 
-- 🏘️ **California Housing Price Prediction**  
-  [GitHub Repo](https://github.com/myselfsiddharth/California-Housing-Price-Prediction)  
-  Built a Random Forest model to predict housing prices (Python, Scikit-Learn), achieving 85% accuracy.
+<!-- Add or remove icons as needed -->
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-- ♿ **Self-driving for Specially Abled**  
-  Created a smart wheelchair prototype using MATLAB + LEGO EV3 with 96%+ route accuracy.
-
-- 🎮 **Video Game Retail Platform**  
-  [GitHub Repo](https://github.com/myselfsiddharth/Game-Distribution-Website)  
-  Django-based store with secure login, dynamic recs, and a custom admin dashboard.
-
----
 
 ## 🛠 Tech Stack
 
