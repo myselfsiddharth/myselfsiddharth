@@ -6,7 +6,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oz8xEQ3kl9FPLvNRq/giphy.gif" alt="Marvel Tech Banner" width="100%">
+  <img src="[https://media.giphy.com/media/3oz8xEQ3kl9FPLvNRq/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ4MDV6ejNlaGI3ajcwYnNwcmNidGhuM2RkdHh4MHRuNmRwaXA1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)" alt="Marvel Tech Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Siddharth 👋</h1>
