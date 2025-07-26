@@ -12,9 +12,7 @@
 <h1 align="center">Hi there, I'm Siddharth 👋</h1>
 <p align="center">
   <em>
-    B.S./M.S. in Computer Science @ Arizona State University <br/>
-    Passionate about Cloud Infrastructure, ML Solutions, and Full-Stack Engineering <br/>
-    <strong>“It’s not about how much we lost; it’s about how much we have left.”</strong> – Tony Stark
+    B.S. and M.S. in Computer Science @ Arizona State University <br/>
   </em>
 </p>
 
