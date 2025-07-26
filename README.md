@@ -6,7 +6,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oz8xEQ3kl9FPLvNRq/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/3oz8xEQ3kl9FPLvNRq/giphy.gif](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fn8agw6z2smyb1.gif%3Fwidth%3D1920%26format%3Dmp4%26s%3D014a8734c8d65fe3b5ef04658714bef6fc97778c" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Siddharth 👋</h1>
