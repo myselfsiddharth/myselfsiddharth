@@ -18,16 +18,6 @@
 
 ---
 
-# 🙋‍♂️ About Me
-
-- 🔭 I'm currently a **Student at Arizona State University**
-- 🌱 I'm currently learning **Cloud Technologies (AWS)** and **Data Structures & Algorithms**
-- 👯 I'm looking to **collaborate on Open Source Projects**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://myselfsiddharth.github.io)
-- 📫 How to reach me: [siddharthmehta0906@gmail.com](mailto:siddharthmehta0906@gmail.com)
-- ⚡ Fun fact: I play football and code whenever I'm free
-
----
 
 # 🚀 Languages and Tools:
 
@@ -56,14 +46,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myselfsiddharth&show_icons=true&theme=default" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=myselfsiddharth&theme=default" width="400"/>
-</div>
-
----
 
 # 🌐 My Socials
 
