@@ -1,7 +1,6 @@
 - MS CS @ ASU '27
 - BS CS @ ASU '26 
-- SWE | ML | AI  
-- prev. @ Software Developer @ OSH - ASU
+- prev. Software Developer @ OSH - ASU
 
 ---
 
