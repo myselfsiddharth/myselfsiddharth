@@ -1,5 +1,3 @@
-## myselfsiddharth / README.md
-
 - MS CS @ ASU '27
 - BS CS @ ASU '26 
 - SWE | ML | AI  
