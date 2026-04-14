@@ -8,22 +8,24 @@
 ### Projects
 
 **system/infra/devtools**
-- **ProjectOne** — Short one-line description of what it does
-- **ProjectTwo** — Brief explanation of purpose or tech used
-- **ProjectThree** — What problem it solves or why it’s useful
+- **[GriefOS](https://github.com/myselsiddharth/GriefOS)** — TypeScript-based system project exploring OS-like architecture
+- **[BlockChain](https://github.com/myselsiddharth/BlockChain)** — Solidity-based blockchain implementation and smart contracts
 
-**agents**
-- **AgentX** — AI/ML agent description in one line
-- **AgentY** — What makes it interesting or unique
+**machine learning**
+- **[RNN-Based-Phishing-Email-Detection-Using-LSTM-GRU-and-BiRNN](https://github.com/myselsiddharth/RNN-Based-Phishing-Email-Detection-Using-LSTM-GRU-and-BiRNN)** — Deep learning model for phishing detection using LSTM, GRU, and BiRNN
+- **[California-Housing-Price-Prediction](https://github.com/myselsiddharth/California-Housing-Price-Prediction)** — ML model using Random Forest Regression for housing price prediction
+
+**agents / ai apps**
+- **[smart-mail-companion](https://github.com/myselsiddharth/smart-mail-companion)** — AI-powered email assistant for summarization and task extraction  
+- **[magic-bot](https://github.com/myselsiddharth/magic-bot)** — AI bot project (experiments with automation / interaction)
 
 **full stack**
-- **AppOne** — Full-stack app description (tech + feature)
-- **AppTwo** — What users can do with it
+- **[CareerPad](https://github.com/myselsiddharth/CareerPad)** — AI-powered platform guiding students from education to career paths  
+- **[Game-Distribution-Website](https://github.com/myselsiddharth/Game-Distribution-Website)** — Django-based game distribution platform  
+- **[PAB](https://github.com/myselsiddharth/PAB)** — Club website built with JavaScript  
 
-**workshops/tutorials**
-- **ProjectGuide** — What it teaches or demonstrates
-- **AnotherGuide** — Topic + impact (e.g., LLMs, RLHF, etc.)
-
+**personal / misc**
+- **[myselsiddharth.github.io](https://github.com/myselsiddharth/myselsiddharth.github.io)** — Personal portfolio website  
 ---
 
 ### Publications
