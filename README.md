@@ -12,7 +12,7 @@
 - **[BlockChain](https://github.com/myselfsiddharth/BlockChain)** — Solidity-based blockchain implementation and smart contracts
 
 **machine learning**
-- **[RNN-Based-Phishing-Email-Detection-Using-LSTM-GRU-and-BiRNN](https://github.com/myselfsiddharth/RNN-Based-Phishing-Email-Detection-Using-LSTM-GRU-and-BiRNN)** — Deep learning model for phishing detection using LSTM, GRU, and BiRNN
+- **[RNN-Based-Phishing-Email-Detection-Using-LSTM-GRU-and-BiRNN](https://github.com/myselfsiddharth/RNN-Based-Phishing-Email-Detection-Using-LSTM-GRU-and-BiRNN)** — Deep learning model
 - **[California-Housing-Price-Prediction](https://github.com/myselfsiddharth/California-Housing-Price-Prediction)** — ML model using Random Forest Regression for housing price prediction
 
 **agents / ai apps**
