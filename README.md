@@ -1,8 +1,9 @@
-## yourusername / README.md
+## myselfsiddharth / README.md
 
-- CS @ ASU '28  
+- MS CS @ ASU '27
+- BS CS @ ASU '26 
 - SWE | ML | AI  
-- prev. @ <your lab / orgs>
+- prev. @ Software Developer @ OSH - ASU
 
 ---
 
@@ -29,5 +30,4 @@
 
 ### Publications
 
-- Paper Title — short context (e.g., in progress @ lab/org)
-- Another Paper — short description or topic
+- ”Constrained GA Optimized Super Twisting Sliding Mode Controller for 2-DoF Robotic Arm” - 2025 IEEE Region 10 Conference (TENCON)
