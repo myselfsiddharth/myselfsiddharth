@@ -8,7 +8,7 @@
 ### Projects
 
 **system/infra/devtools**
-- **[GriefOS]([https://github.com/myselsiddharth/GriefOS.git](https://github.com/myselfsiddharth/GriefOS))** — TypeScript-based system project exploring OS-like architecture
+- **[GriefOS](https://github.com/myselfsiddharth/GriefOS)** — TypeScript-based system project exploring OS-like architecture
 - **[BlockChain](https://github.com/myselsiddharth/BlockChain.git)** — Solidity-based blockchain implementation and smart contracts
 
 **machine learning**
