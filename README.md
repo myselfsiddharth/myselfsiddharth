@@ -9,7 +9,7 @@
 
 **system/infra/devtools**
 - **[GriefOS](https://github.com/myselfsiddharth/GriefOS)** — TypeScript-based system project exploring OS-like architecture
-- **[BlockChain](https://github.com/myselsiddharth/BlockChain.git)** — Solidity-based blockchain implementation and smart contracts
+- **[BlockChain](https://github.com/myselfsiddharth/BlockChain)** — Solidity-based blockchain implementation and smart contracts
 
 **machine learning**
 - **[RNN-Based-Phishing-Email-Detection-Using-LSTM-GRU-and-BiRNN](https://github.com/myselsiddharth/RNN-Based-Phishing-Email-Detection-Using-LSTM-GRU-and-BiRNN.git)** — Deep learning model for phishing detection using LSTM, GRU, and BiRNN
