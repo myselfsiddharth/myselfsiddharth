@@ -7,14 +7,12 @@
 ### Projects
 
 **system/infra/devtools**
-- **[GriefOS](https://github.com/myselfsiddharth/GriefOS)** — AI - Developed an therapy agent on top of the recall memory architecture, Server as a great companion for a therapist. (VillageHacks '26 Winner)
 - **[BlockChain](https://github.com/myselfsiddharth/BlockChain)** — Solidity-based blockchain implementation and smart contracts
 
-**machine learning**
+**AI/ML**
+- **[GriefOS](https://github.com/myselfsiddharth/GriefOS)** — AI - Developed an therapy agent on top of the recall memory architecture, Server as a great companion for a therapist. (VillageHacks '26 Winner)
 - **[RNN-Based-Phishing-Email-Detection-Using-LSTM-GRU-and-BiRNN](https://github.com/myselfsiddharth/RNN-Based-Phishing-Email-Detection-Using-LSTM-GRU-and-BiRNN)** — Deep learning model
 - **[California-Housing-Price-Prediction](https://github.com/myselfsiddharth/California-Housing-Price-Prediction)** — ML model using Random Forest Regression for housing price prediction
-
-**agents / ai apps**
 - **[smart-mail-companion](https://github.com/myselsiddharth/smart-mail-companion.git)** — AI-powered email assistant for summarization and task extraction  
 
 **full stack**
