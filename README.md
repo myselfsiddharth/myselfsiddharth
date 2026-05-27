@@ -7,7 +7,7 @@
 ### Projects
 
 **system/infra/devtools**
-- **[GriefOS](https://github.com/myselfsiddharth/GriefOS)** — TypeScript-based system project exploring OS-like architecture (VillageHacks '26 Winner)
+- **[GriefOS](https://github.com/myselfsiddharth/GriefOS)** — AI - Developed an therapy agent on top of the recall memory architecture, Server as a great companion for a therapist. (VillageHacks '26 Winner)
 - **[BlockChain](https://github.com/myselfsiddharth/BlockChain)** — Solidity-based blockchain implementation and smart contracts
 
 **machine learning**
