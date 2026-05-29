@@ -8,6 +8,7 @@
 
 **system/infra/devtools**
 - **[Decentralized Smart Contract-Based Escrow System](https://github.com/myselfsiddharth/BlockChain)** — Solidity-based blockchain implementation and smart contracts
+- **[Flecto - Semantic File Watcher](https://github.com/myselfsiddharth/Flecto)** — detects meaningful changes in structured config files and reports them in plain English
 
 **AI/ML**
 - **[GriefOS](https://github.com/myselfsiddharth/GriefOS)** — A Therapy agent built on the recall memory architecture **(VillageHacks '26 Winner)**
