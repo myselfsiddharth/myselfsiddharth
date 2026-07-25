@@ -19,7 +19,7 @@
 - 🎓 BS Computer Science @ Arizona State University, Class of '26
 - 💼 Previously Software Developer @ OSH – ASU
 - 🧠 Interested in AI/ML, backend engineering, and agentic systems
-- 🏆 Winner, VillageHacks '26
+- 🏆 4x Hackathon Winner
 
 ---
 
