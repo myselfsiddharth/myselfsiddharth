@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="Toolbox">
+<style>
+  .t{font:500 13px 'SF Mono', 'Martian Mono', ui-monospace, Menlo, Consolas, monospace;fill:#dd8f66;letter-spacing:4px}
+  .l{stroke-dasharray:1200;stroke-dashoffset:1200;animation:s 1.6s ease-out forwards}
+  .p{animation:p 2.4s ease-in-out infinite}
+  @keyframes s{to{stroke-dashoffset:0}}
+  @keyframes p{50%{opacity:.25}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<circle class="p" cx="8" cy="32" r="4" fill="#dd8f66"/>
+<text class="t" x="26" y="37">TOOLBOX</text>
+<line class="l" x1="141" y1="32" x2="1200" y2="32" stroke="#282e35" stroke-width="1"/>
+</svg>

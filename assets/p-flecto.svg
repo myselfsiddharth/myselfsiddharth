@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="588" height="214" viewBox="0 0 588 214" role="img" aria-label="Flecto: Reads your Terraform plan and Kubernetes changes and posts a plain-English risk summary on every pull request, blocking the dangerous ones.">
+<defs>
+  <radialGradient id="glow" cx="100%" cy="0%" r="90%"><stop offset="0" stop-color="#dd8f66" stop-opacity=".22"/><stop offset="1" stop-color="#dd8f66" stop-opacity="0"/></radialGradient>
+  <clipPath id="cl"><rect width="588" height="214" rx="18"/></clipPath>
+</defs>
+<style>
+  .k{font:500 11px 'SF Mono', 'Martian Mono', ui-monospace, Menlo, Consolas, monospace;fill:#dd8f66;letter-spacing:3px}
+  .h{font:italic 400 30px Georgia, 'Times New Roman', serif;fill:#f0eee8;letter-spacing:-.5px}
+  .d{font:400 14.5px 'Instrument Sans', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#959ba5}
+  .tg{font:500 11px 'SF Mono', 'Martian Mono', ui-monospace, Menlo, Consolas, monospace;fill:#f0eee8}
+  .bd{font:600 11px 'SF Mono', 'Martian Mono', ui-monospace, Menlo, Consolas, monospace;fill:#dd8f66;letter-spacing:1px}
+  .st{font:500 12px 'SF Mono', 'Martian Mono', ui-monospace, Menlo, Consolas, monospace;fill:#959ba5}
+  .sweep{animation:sw 7s ease-in-out infinite}
+  @keyframes sw{0%,60%{transform:translateX(-120px)}100%{transform:translateX(708px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#cl)">
+  <rect width="588" height="214" fill="#12171f"/>
+  <rect width="588" height="214" fill="url(#glow)"/>
+  <rect class="sweep" x="0" y="0" width="60" height="214" fill="#f0eee8" opacity=".035" transform="skewX(-20)"/>
+  <text x="28" y="40" class="k">DEVOPS · NPM · GITHUB ACTION</text>
+  <text x="28" y="76" class="h">Flecto</text>
+  <text x="28" y="108" class="d">Reads your Terraform plan and Kubernetes changes and posts a</text><text x="28" y="130" class="d">plain-English risk summary on every pull request, blocking the</text><text x="28" y="152" class="d">dangerous ones.</text>
+  <rect x="28" y="168" width="96" height="26" rx="13" fill="none" stroke="#282e35"/><text x="76" y="185" text-anchor="middle" class="tg">JavaScript</text><rect x="132.0" y="168" width="89" height="26" rx="13" fill="none" stroke="#282e35"/><text x="176" y="185" text-anchor="middle" class="tg">Terraform</text><rect x="228.60000000000002" y="168" width="96" height="26" rx="13" fill="none" stroke="#282e35"/><text x="277" y="185" text-anchor="middle" class="tg">Kubernetes</text>
+  <rect x="493" y="24" width="67" height="26" rx="13" fill="#dd8f66" fill-opacity=".14" stroke="#dd8f66" stroke-opacity=".5"/><text x="526" y="41" text-anchor="middle" class="bd">ON NPM</text>
+  <text x="560" y="194" text-anchor="end" class="st">&#9733; 7</text>
+</g>
+<rect x=".5" y=".5" width="587" height="213" rx="18" fill="none" stroke="#282e35"/>
+</svg>

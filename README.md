@@ -1,64 +1,95 @@
-<h1 align="center">Hi, I'm Siddharth Mehta 👋</h1>
-
 <p align="center">
-  Founder of <a href="https://github.com/DevToolie"><b>DevToolie</b></a> · Graduate CS Student @ ASU · AI/ML & Backend Engineering
+  <img src="assets/header.svg" alt="Siddharth Mehta, backend engineer" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/myselfsiddharth"><img src="https://img.shields.io/github/followers/myselfsiddharth?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="https://twitter.com/That_one_Sid"><img src="https://img.shields.io/twitter/follow/That_one_Sid?style=social" alt="Twitter follow"></a>
-  <a href="https://github.com/DevToolie"><img src="https://img.shields.io/badge/org-DevToolie-6e5494?logo=github" alt="DevToolie org"></a>
+  <a href="https://siddharth.wiki"><img src="https://img.shields.io/badge/siddharth.wiki-dd8f66?style=for-the-badge&labelColor=0a0f15&logo=safari&logoColor=dd8f66" alt="Portfolio"></a>
+  <a href="https://github.com/DevToolie"><img src="https://img.shields.io/badge/DevToolie-founder-dd8f66?style=for-the-badge&labelColor=0a0f15&logo=github&logoColor=dd8f66" alt="DevToolie"></a>
+  <a href="https://twitter.com/That_one_Sid"><img src="https://img.shields.io/badge/@That__one__Sid-follow-dd8f66?style=for-the-badge&labelColor=0a0f15&logo=x&logoColor=dd8f66" alt="X / Twitter"></a>
 </p>
 
----
+<p align="center">
+  <img src="assets/h-about.svg" alt="About" width="100%">
+</p>
 
-### 🚀 About Me
+I build backend systems and AI infrastructure. At Arizona State I shipped **TutorBot**, a production RAG platform that grounds an LLM in actual course material for **10,000+ students**. Outside of class I run **[DevToolie](https://github.com/DevToolie)**, where I make tools for developers and AI agents.
 
-- 🏢 Founder of **[DevToolie](https://github.com/DevToolie)** — building developer tools & AI agent infrastructure
-- 🎓 MS Computer Science @ Arizona State University, Class of '27
-- 🎓 BS Computer Science @ Arizona State University, Class of '26
-- 💼 Previously Software Developer @ OSH – ASU
-- 🧠 Interested in AI/ML, backend engineering, and agentic systems
-- 🏆 4x Hackathon Winner
+|   |   |
+|---|---|
+| 🎓 **Studying** | MS Computer Science @ Arizona State University (GPA 4.0) · BS CS '26 (GPA 3.7) |
+| 🛠️ **Building** | [Flecto](https://github.com/myselfsiddharth/Flecto) · [Paragent](https://github.com/DevToolie/Paragent) · [LegalAI](https://github.com/myselfsiddharth/LegalAI) |
+| 💼 **Before** | Software Developer @ ASU · Software Engineer Intern @ Sahy Techpreneurs (Stripe rebuild, flat files → PostgreSQL) |
+| 🤝 **Leading** | VP of AI Society · Executive Advisor, AWS Cloud Builders Club |
+| 🌱 **Open source** | Fixes in [microsoft/vscode](https://github.com/microsoft/vscode), one merged, one in review |
+| 💬 **Ask me about** | RAG, browser agents, AWS, Terraform/Kubernetes review, backend design |
 
----
+<p align="center">
+  <img src="assets/h-highlights.svg" alt="Highlights" width="100%">
+</p>
 
-### 🏢 DevToolie
+<p align="center">
+  <img src="assets/numbers.svg" alt="10,000+ students served, 4.0 GPA, 4x hackathon winner, vscode contributor" width="100%">
+</p>
 
-At **DevToolie**, we build tools for developers and AI agents.
+<p align="center">
+  <img src="assets/h-work.svg" alt="Selected work" width="100%">
+</p>
 
-- **[Paragent](https://github.com/DevToolie/Paragent)** — a stateful execution layer for browser agents
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/myselfsiddharth/Flecto"><img src="assets/p-flecto.svg" alt="Flecto: plain-English risk summaries for Terraform and Kubernetes pull requests"></a></td>
+    <td width="50%"><a href="https://github.com/DevToolie/Paragent"><img src="assets/p-paragent.svg" alt="Paragent: stateful execution layer for browser agents"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/myselfsiddharth/GriefOS"><img src="assets/p-griefos.svg" alt="GriefOS: therapy agent on a recall memory architecture"></a></td>
+    <td width="50%"><a href="https://github.com/myselfsiddharth/Spotify-Music-Map"><img src="assets/p-sonic.svg" alt="Sonic Cartography: Spotify artists on a living globe"></a></td>
+  </tr>
+</table>
 
----
+<details>
+<summary><b>More projects</b></summary>
+<br>
 
-### 🛠️ Projects
+| Project | What it is |
+|---|---|
+| [Decentralized Escrow System](https://github.com/myselfsiddharth/Decentralized-Smart-Contract-Based-Escrow-System) | Solidity smart contracts for trust-minimized escrow |
+| [Phishing Detection with RNNs](https://github.com/myselfsiddharth/RNN-Based-Phishing-Email-Detection-Using-LSTM-GRU-and-BiRNN) | LSTM, GRU and BiRNN compared across 82,077 emails |
+| [Game Distribution Website](https://github.com/myselfsiddharth/Game-Distribution-Website) | Django-based game distribution platform |
+| [California Housing Prediction](https://github.com/myselfsiddharth/California-Housing-Price-Prediction) | Random Forest regression on housing data |
+| [Flecto Terraform demo](https://github.com/myselfsiddharth/flecto-example-terraform) | Live demo of Flecto reviewing a Terraform plan on a PR |
 
-**Systems / Infra / DevTools**
-- **[Decentralized Smart Contract-Based Escrow System](https://github.com/myselfsiddharth/Decentralized-Smart-Contract-Based-Escrow-System)** — Solidity-based blockchain implementation and smart contracts
-- **[Flecto — Semantic File Watcher](https://github.com/myselfsiddharth/Flecto)** — detects meaningful changes in structured config files and reports them in plain English
+More write-ups (taxi graph pipeline, wildfire digital twin, facial emotion CNN) live on [siddharth.wiki](https://siddharth.wiki).
 
-**AI / ML**
-- **[GriefOS](https://github.com/myselfsiddharth/GriefOS)** — a therapy agent built on a recall memory architecture · **VillageHacks '26 Winner**
-- **[RNN-Based Phishing Email Detection](https://github.com/myselfsiddharth/RNN-Based-Phishing-Email-Detection-Using-LSTM-GRU-and-BiRNN)** — deep learning model using LSTM, GRU, and BiRNN
-- **[California Housing Price Prediction](https://github.com/myselfsiddharth/California-Housing-Price-Prediction)** — ML model using Random Forest Regression
-- **[Smart Mail Companion](https://github.com/myselfsiddharth/smart-mail-companion)** — AI-powered email assistant for summarization and task extraction
+</details>
 
-**Full Stack**
-- **[CareerPad](https://github.com/myselfsiddharth/CareerPad)** — AI-powered platform guiding students from education to career paths
-- **[Game Distribution Website](https://github.com/myselfsiddharth/Game-Distribution-Website)** — Django-based game distribution platform
+<p align="center">
+  <img src="assets/h-stack-title.svg" alt="Toolbox" width="100%">
+</p>
 
----
+<p align="center">
+  <img src="assets/stack.svg" alt="Python, TypeScript, JavaScript, SQL, Solidity, AWS, Node.js, Django, PostgreSQL, Docker, Kubernetes, Terraform, RAG, PyTorch" width="100%">
+</p>
 
-### 📄 Publications
+<p align="center">
+  <img src="assets/h-research.svg" alt="Research" width="100%">
+</p>
 
-- *"Constrained GA Optimized Super Twisting Sliding Mode Controller for 2-DoF Robotic Arm"* — 2025 IEEE Region 10 Conference (TENCON)
+📄 *Constrained GA Optimized Super Twisting Sliding Mode Controller for 2-DoF Robotic Arm*, **2025 IEEE Region 10 Conference (TENCON)**
 
----
+<p align="center">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/myselfsiddharth/myselfsiddharth/output/snake-dark.svg" width="100%">
+</p>
 
-### 📫 Connect
+<p align="center">
+  <img src="assets/h-connect.svg" alt="Connect" width="100%">
+</p>
 
-<p align="left">
-  <a href="https://github.com/myselfsiddharth"><img src="https://img.shields.io/badge/GitHub-myselfsiddharth-181717?logo=github" alt="GitHub"></a>
-  <a href="https://twitter.com/That_one_Sid"><img src="https://img.shields.io/badge/Twitter-That__one__Sid-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://github.com/DevToolie"><img src="https://img.shields.io/badge/Org-DevToolie-6e5494?logo=github" alt="DevToolie"></a>
+<p align="center">
+  <a href="https://siddharth.wiki"><img src="https://img.shields.io/badge/Portfolio-siddharth.wiki-dd8f66?style=flat-square&labelColor=0a0f15" alt="Portfolio"></a>
+  <a href="https://twitter.com/That_one_Sid"><img src="https://img.shields.io/badge/X-@That__one__Sid-dd8f66?style=flat-square&labelColor=0a0f15&logo=x&logoColor=dd8f66" alt="X"></a>
+  <a href="https://github.com/DevToolie"><img src="https://img.shields.io/badge/Org-DevToolie-dd8f66?style=flat-square&labelColor=0a0f15&logo=github&logoColor=dd8f66" alt="DevToolie"></a>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" alt="Let's build something good." width="100%">
 </p>

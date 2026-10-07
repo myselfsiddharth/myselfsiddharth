@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Highlights">
+<style>
+  .b{font:italic 400 38px Georgia, 'Times New Roman', serif;fill:#f0eee8;letter-spacing:-1px}
+  .s{font:400 13px 'Instrument Sans', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#959ba5}
+  .card{opacity:0;animation:in .8s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g class="card" style="animation-delay:0.0s" transform="translate(0,0)">
+  <rect width="282" height="150" rx="16" fill="#12171f" stroke="#282e35"/>
+  <rect x="24" y="24" width="28" height="3" rx="1.5" fill="#dd8f66"/>
+  <text x="24" y="76" class="b">10,000+</text>
+  <text x="24" y="104" class="s">students served by the</text><text x="24" y="124" class="s">TutorBot RAG platform</text>
+</g><g class="card" style="animation-delay:0.12s" transform="translate(306,0)">
+  <rect width="282" height="150" rx="16" fill="#12171f" stroke="#282e35"/>
+  <rect x="24" y="24" width="28" height="3" rx="1.5" fill="#dd8f66"/>
+  <text x="24" y="76" class="b">4.0</text>
+  <text x="24" y="104" class="s">GPA in the MS in CS</text><text x="24" y="124" class="s">at Arizona State</text>
+</g><g class="card" style="animation-delay:0.24s" transform="translate(612,0)">
+  <rect width="282" height="150" rx="16" fill="#12171f" stroke="#282e35"/>
+  <rect x="24" y="24" width="28" height="3" rx="1.5" fill="#dd8f66"/>
+  <text x="24" y="76" class="b">4x</text>
+  <text x="24" y="104" class="s">hackathon winner,</text><text x="24" y="124" class="s">latest: VillageHacks &#x27;26</text>
+</g><g class="card" style="animation-delay:0.36s" transform="translate(918,0)">
+  <rect width="282" height="150" rx="16" fill="#12171f" stroke="#282e35"/>
+  <rect x="24" y="24" width="28" height="3" rx="1.5" fill="#dd8f66"/>
+  <text x="24" y="76" class="b">vscode</text>
+  <text x="24" y="104" class="s">fixes contributed to</text><text x="24" y="124" class="s">microsoft/vscode</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Let's build something">
+<defs>
+  <linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#dd8f66" stop-opacity="0"/><stop offset=".5" stop-color="#dd8f66"/><stop offset="1" stop-color="#dd8f66" stop-opacity="0"/></linearGradient>
+  <clipPath id="c"><rect width="1200" height="140" rx="20"/></clipPath>
+</defs>
+<style>
+  .f{font:italic 400 40px Georgia, 'Times New Roman', serif;fill:#f0eee8;letter-spacing:-1px}
+  .s{font:500 12px 'SF Mono', 'Martian Mono', ui-monospace, Menlo, Consolas, monospace;fill:#959ba5;letter-spacing:3px}
+  .w1{animation:w 9s linear infinite}
+  .w2{animation:w 14s linear infinite reverse}
+  @keyframes w{to{transform:translateX(-600px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#c)">
+  <rect width="1200" height="140" fill="#0a0f15"/>
+  <g opacity=".5"><path class="w1" d="M0 122 q150 -30 300 0 t300 0 t300 0 t300 0 t300 0 t300 0" fill="none" stroke="url(#a)" stroke-width="2"/></g>
+  <g opacity=".3"><path class="w2" d="M0 128 q150 24 300 0 t300 0 t300 0 t300 0 t300 0 t300 0" fill="none" stroke="#a44b25" stroke-width="1.5"/></g>
+  <text class="s" x="600" y="48" text-anchor="middle">THANKS FOR STOPPING BY</text>
+  <text class="f" x="600" y="92" text-anchor="middle">Let's build something good.</text>
+  <rect x=".5" y=".5" width="1199" height="139" rx="20" fill="none" stroke="#282e35"/>
+</g>
+</svg>
